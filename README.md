@@ -36,7 +36,7 @@ I am a backend and machine learning developer. I develop ML-oriented backend mic
 - ❓ Interested in building robust systems with enhanced security and efficient system architecture  
   
 
-- ✉️ You can contact me by email at [adityagitte.dev@gmail.com]()  
+- ✉️ You can contact me by email at [adityagitte.dev@gmail.com](#)  
 
 
 </td><td valign="top" width="50%">
