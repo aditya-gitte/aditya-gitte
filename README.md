@@ -27,7 +27,7 @@ I am a backend and machine learning developer. I develop ML-oriented backend mic
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 You can find my resume [here](https://drive.google.com/file/d/1S1C0Fx6iFVlX8oPZS-qKz6YzWZHouops/view?usp=sharing)  
+- 🔭 You can find my resume [here](https://drive.google.com/file/d/1zV4V09EmJ1y5Y46mAJmiNTOUSP7seWSz/view?usp=share_link)  
   
 
 - 🌱 I’m currently learning more about Deep Learning and Tensorflow  
