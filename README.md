@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I am a backend and machine learning developer. I develop ML-oriented backend microservices that are easy to deploy. I am a third-year Computer Engineering student at Pune Institute of Computer Technology. Currently learning about Tensorflow and Deep Learning  
+I am currently a senior Computer Engineering student at PICT, keenly interested in technology and science. My academic journey has equipped me with a strong grasp of Data Structures, Algorithms, Optimization, Operating Systems, Computer Networks, Database Management Systems (DBMS), and Distributed Systems. I am a backend and Machine Learning engineer, and my passion lies in developing scalable and efficient systems. This account includes several projects on which I have worked and am currently working. This account also features multiple repositories that have various machine learning functionalities bundled in form of dockerized REST APIs.
   
 
 <br/>  
@@ -27,10 +27,13 @@ I am a backend and machine learning developer. I develop ML-oriented backend mic
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 You can find my resume [here](https://drive.google.com/file/d/1wQjV0ClhEq0EXvoavTyEPfZAOlAaVGIO/view?usp=sharing)  
+- 🔭 You can find my resume [here](https://drive.google.com/file/d/1JVmEje1KSV589tF7RAHWLGMQNYYJn-iu/view?usp=sharing)
+
+
+- 💼 I am currently working as a backend development intern at [AI4Bhārat](https://ai4bharat.iitm.ac.in/), a research lab at IIT Madras
   
 
-- 🌱 I’m currently learning more about Deep Learning and Tensorflow  
+- 🌱 I’m currently learning more about Deep Learning and Blockchain  
   
 
 - ❓ Interested in building robust systems with enhanced security and efficient system architecture  
@@ -42,7 +45,7 @@ I am a backend and machine learning developer. I develop ML-oriented backend mic
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" align="center" style="width: 100%" />
 </div>  
 
 
@@ -73,19 +76,6 @@ I am a backend and machine learning developer. I develop ML-oriented backend mic
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-gitte&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-gitte&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
 
   
 
