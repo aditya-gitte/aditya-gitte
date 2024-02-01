@@ -39,7 +39,7 @@ I am currently a senior Computer Engineering student at PICT, keenly interested 
 - ❓ Interested in building robust systems with enhanced security and efficient system architecture  
   
 
-- ✉️ You can contact me by email at [adityagitte.dev@gmail.com](#)  
+- ✉️ You can contact me by email at [aditya@adityagitte.tech](#)  
 
 
 </td><td valign="top" width="50%">
