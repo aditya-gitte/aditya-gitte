@@ -27,10 +27,10 @@ I am currently a senior Computer Engineering student at PICT, keenly interested 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 You can find my resume [here](https://drive.google.com/file/d/1JVmEje1KSV589tF7RAHWLGMQNYYJn-iu/view?usp=sharing)
+- 🔭 You can find my resume [here](https://drive.google.com/file/d/1gL9EzCZfVlPztOA3Hqu4GJs6-21BIrJm/view?usp=sharing)
 
 
-- 💼 I am currently working as a backend development intern at [AI4Bhārat](https://ai4bharat.iitm.ac.in/), a research lab at IIT Madras
+- 💼 I have worked as an intern at AI4Bharat, IIT Madras, UST Global and PICT Pune
   
 
 - 🌱 I’m currently learning more about Deep Learning and Blockchain  
