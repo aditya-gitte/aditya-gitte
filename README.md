@@ -10,15 +10,11 @@
 <a href="https://linkedin.com/in/aditya-gitte" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/aditya_gitte" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
   
 
-
-
 ### Glad to see you here!  
-I am currently a senior Computer Engineering student at PICT, keenly interested in technology and science. My academic journey has equipped me with a strong grasp of Data Structures, Algorithms, Optimization, Operating Systems, Computer Networks, Database Management Systems (DBMS), and Distributed Systems. I am a backend and Machine Learning engineer, and my passion lies in developing scalable and efficient systems. This account includes several projects on which I have worked and am currently working. This account also features multiple repositories that have various machine learning functionalities bundled in form of dockerized REST APIs.
+
+I focus on building scalable and efficient software solutions. My background combines practical backend development experience with a deep dive into AI and Deep Learning through academic research and internships. I'm passionate about leveraging emerging AI, like LLMs and agentic systems, underpinned by robust backend infrastructure, to create impactful end-to-end applications.
   
 
 <br/>  
@@ -27,19 +23,19 @@ I am currently a senior Computer Engineering student at PICT, keenly interested 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
+- 🌱 You can checkout my projects and internship details at [adityagitte.com](http://adityagitte.com)
+
+  
 - 🔭 You can find my resume [here](https://drive.google.com/file/d/1gL9EzCZfVlPztOA3Hqu4GJs6-21BIrJm/view?usp=sharing)
 
 
 - 💼 I have worked as an intern at AI4Bharat, IIT Madras, UST Global and PICT Pune
   
 
-- 🌱 I’m currently learning more about Deep Learning and Blockchain  
-  
-
 - ❓ Interested in building robust systems with enhanced security and efficient system architecture  
   
 
-- ✉️ You can contact me by email at [aditya@adityagitte.tech](#)  
+- ✉️ You can contact me by email at [aditya@adityagitte.com](#)  
 
 
 </td><td valign="top" width="50%">
